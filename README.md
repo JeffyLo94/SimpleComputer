@@ -1,2 +1,4 @@
 # SimpleComputer
-Project for Circuits and Logic Class from Saddleback Community College
+
+My Attempt at replicating a Simple Computer Emulator
+Based on: http://www.cs.xu.edu/csci170/02f/sect25/simpleComputer/sc.html
